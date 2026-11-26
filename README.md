@@ -34,9 +34,9 @@ momon-commission/
     ├── body-x.gif
     ├── body-y.gif
     ├── body-diagonal.gif
-    ├── interaction.gif
-    ├── hair-physics.gif
-    ├── accessory-3d.gif
+    ├── headset.gif
+    ├── horns.gif
+    ├── mask.gif
     └── partner-{작가 UID}.jpg
 ```
 
