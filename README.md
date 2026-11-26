@@ -8,7 +8,7 @@ Mo Mon의 Live2D 리깅 커미션 소개 및 포트폴리오 페이지입니다.
 
 - Premium / Standard / Basic / SD 타입별 쇼케이스 영상 9개
 - 영상 캐러셀, 썸네일 선택, 모바일 스와이프 및 키보드 탐색
-- 리깅 디테일 GIF 9개 슬롯 및 확대 팝업
+- 리깅 디테일 MP4 9개 슬롯, 화면 내 자동 반복 재생 및 확대 팝업
 - 리깅 타입별 가격과 추가 옵션 안내
 - 협업 일러스트 작가 11명 소개 및 아트머그 링크
 - 누적 리깅 작업 건수 및 기준 날짜 표시
@@ -28,19 +28,19 @@ momon-commission/
 ├── index.html
 ├── README.md
 └── assets/
-    ├── face-x.gif
-    ├── face-y.gif
-    ├── face-diagonal.gif
-    ├── body-x.gif
-    ├── body-y.gif
-    ├── body-diagonal.gif
-    ├── headset.gif
-    ├── horns.gif
-    ├── mask.gif
+    ├── face-x.mp4
+    ├── face-y.mp4
+    ├── face-diagonal.mp4
+    ├── body-x.mp4
+    ├── body-y.mp4
+    ├── body-diagonal.mp4
+    ├── headset.mp4
+    ├── horns.mp4
+    ├── mask.mp4
     └── partner-{작가 UID}.jpg
 ```
 
-위 구조는 코드에서 참조하는 파일 경로입니다. GIF 및 이미지가 누락되면 대체 표시가 나타납니다. 협업 작가 썸네일은 4:3 비율로 표시됩니다.
+위 구조는 코드에서 참조하는 파일 경로입니다. MP4 및 이미지가 누락되면 대체 표시가 나타납니다. 협업 작가 썸네일은 4:3 비율로 표시됩니다.
 
 ## 콘텐츠 수정
 
